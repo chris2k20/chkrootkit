@@ -10,5 +10,5 @@ Clone repo and run it the image with the following commands:
 
 Or fast (without docker-compose):
 
-    $ docker run -v /:/data chris2k20/chkrootkit
+    $ docker run -v /:/data user2k20/chkrootkit
 
