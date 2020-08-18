@@ -1,5 +1,5 @@
 # chkrootkit docker image
-Checks your system for root kits via a docker container (which has / mounted at /data)
+Checks your system for root kits via chkrootkit in a docker container (which has / mounted on /data).
 
 # Use it 
 Clone repo and run it the image with the following commands:
